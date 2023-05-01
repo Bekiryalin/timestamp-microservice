@@ -1,6 +1,6 @@
 # Timestamp Microservice
 
-[![Run on Repl.it](https://repl.it/badge/github/GTS08/Timestamp-Microservice)](https://repl.it/github/GTS08/Timestamp-Microservice)
+[![Run on Repl.it](https://repl.it/badge/github/gthomas10/Timestamp-Microservice)](https://repl.it/github/gthomas10/Timestamp-Microservice)
 
 ## About The Project
 
@@ -24,7 +24,7 @@ You can find more information [here](https://www.freecodecamp.org/learn/back-end
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/GTS08/Timestamp-Microservice.git
+   git clone https://github.com/gthomas08/Timestamp-Microservice.git
    ```
 2. Go to project directory
    ```bash
